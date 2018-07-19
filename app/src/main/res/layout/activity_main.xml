@@ -12,13 +12,12 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:id="@+id/tV1"
-        android:layout_width="352dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="40sp"
         android:gravity="right"
         android:text="0"
         android:textColor="#000000"
-
         android:background="#FFFF89"/>
 
     <Button
